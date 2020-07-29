@@ -71,3 +71,7 @@ Algunos comandos:
  **_Servidor de soporte:_**
   
  <a href="https://discord.gg/YQHeYFE"><img src="https://discordapp.com/api/guilds/683729329540169781/widget.png?style=banner2" /></a>
+ 
+ 
+ 
+ **INVITACION DEL BOT ^^** https://discord.com/api/oauth2/authorize?client_id=733659609952157706&permissions=388169&scope=bot
